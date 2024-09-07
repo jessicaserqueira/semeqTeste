@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">SemeqTeste</string>
+    <string name="welcome">Welcome</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="hello">Hello</string>
+    <string name="sector">Sector</string>
+    <string name="area">Area</string>
+    <string name="motor">Motor</string>
+    <string name="sensor">Sensor</string>
+    <string name="edit_equipment_name">Edit equipment name</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="login" translatable="false">Login</string>
+</resources>

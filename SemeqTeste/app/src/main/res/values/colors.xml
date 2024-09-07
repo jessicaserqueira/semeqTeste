@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neutral_50">#FFFFFFFF</color>
+    <color name="neutral_100">#FFF2F2F2</color>
+    <color name="neutral_100_alpha">#0D000000</color>
+    <color name="neutral_200">#FFE0E0E0</color>
+    <color name="neutral_200_alpha">#1F000000</color>
+    <color name="neutral_300">#FFBDBDBD</color>
+    <color name="neutral_300_alpha">#42000000</color>
+    <color name="neutral_400">#FF9E9E9E</color>
+    <color name="neutral_500">#FF757575</color>
+    <color name="neutral_600">#FF2A2A2A</color>
+    <color name="neutral_700">#FF000000</color>
+    <color name="neutral_grad_start">#FF000000</color>
+    <color name="neutral_grad_end">#FF424242</color>
+
+    <color name="black_solid_100">#1F000000</color>
+    <color name="black_solid_200">#33000000</color>
+    <color name="black_solid_300">#66000000</color>
+    <color name="black_solid_400">#8C000000</color>
+    <color name="black_solid_500">#B8000000</color>
+    <color name="black_solid_600">#E0000000</color>
+    <color name="black_solid_700">#FF000000</color>
+
+    <color name="white_solid_100">#12FFFFFF</color>
+    <color name="white_solid_200">#23FFFFFF</color>
+    <color name="white_solid_300">#66FFFFFF</color>
+    <color name="white_solid_400">#8CFFFFFF</color>
+    <color name="white_solid_500">#B8FFFFFF</color>
+    <color name="white_solid_600">#E0FFFFFF</color>
+    <color name="white_solid_700">#FFFFFFFF</color>
+
+    <color name="system_background">#FFFFFFFF</color>
+    <color name="system_elevation">#FFFFFFFF</color>
+    <color name="system_tooltip">#FF212121</color>
+    <color name="system_overlay">#B8000000</color>
+
+    <color name="pink_100">#FFFFEBF1</color>
+    <color name="pink_200">#FFFFC9DB</color>
+    <color name="pink_300">#FFF8A5C1</color>
+    <color name="pink_400">#FFEF7DA3</color>
+    <color name="pink_500">#FFEC407A</color>
+    <color name="pink_600">#FFE20959</color>
+    <color name="pink_600_contrast">#FFE20959</color>
+    <color name="pink_700">#FFB10751</color>
+    <color name="pink_grad_start">#FFED1515</color>
+    <color name="pink_grad_end">#FFED45B5</color>
+
+</resources>

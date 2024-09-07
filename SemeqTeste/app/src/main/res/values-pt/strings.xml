@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bem-vindo</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="username">Nome de usuário</string>
+    <string name="hello">Olá</string>
+    <string name="sector">Setor</string>
+    <string name="area">Área</string>
+    <string name="motor">Motor</string>
+    <string name="sensor">Sensor</string>
+    <string name="edit_equipment_name">Editar nome do equipamento</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
